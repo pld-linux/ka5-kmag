@@ -35,6 +35,11 @@ KMag is a small utility for Linux to magnify a part of the screen.
 KMag is very useful for people with visual disabilities and for those
 working in the fields of image analysis, web development etc.
 
+%description -l pl.UTF-8
+KMag jest małym programem użytkowym dla Linuksa powiekszającym część
+ekranu. KMag jest bardzo przydatny dla osób niedowidzących jak i dla
+pracujących na polu analizy obrazu, programowaniu webowym, itp.
+
 %prep
 %setup -q -n %{kaname}-%{version}
 
